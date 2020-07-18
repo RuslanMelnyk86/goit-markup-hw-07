@@ -1,0 +1,14 @@
+.page-footer {
+  color: $secondary-text-color;
+  background-color: $footer-bg-color;
+
+  font-family: $font-family;
+  font-size: 14px;
+  line-height: 1.17;
+  letter-spacing: $letter-spacing;
+}
+.main-container-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
