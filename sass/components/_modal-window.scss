@@ -101,7 +101,7 @@
 .modal-icon {
   position: absolute;
   display: inline-block;
-  top: 75%;
+  top: 70%;
   left: 16px;
   transform: translateY(-100%);
 }
@@ -192,6 +192,8 @@ textarea {
 }
 
 .subscribe {
+  position: absolute;
+  top: -10%;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
